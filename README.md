@@ -1,5 +1,14 @@
 # openapi-generator-japanese
 
+（2019-08-07 追記）
+
+OpenAPI GeneratorのチャットサポートのSlack移行に伴い、国内の開発者向けに用意していたGitterチャットも  
+Slackの #japanese チャンネルに移行しましたので下記からご参加をお願いします！
+
+https://join.slack.com/t/openapi-generator/shared_invite/enQtNzAyNDMyOTU0OTE1LTY5ZDBiNDI5NzI5ZjQ1Y2E5OWVjMjZkYzY1ZGM2MWQ4YWFjMzcyNDY5MGI4NjQxNDBiMTlmZTc5NjY2ZTQ5MGM
+
+--
+
 [![Join the chat at https://gitter.im/openapi-generator-japanese/Lobby](https://badges.gitter.im/openapi-generator-japanese/Lobby.svg)](https://gitter.im/openapi-generator-japanese/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator)について日本語でやりとりするチャットルームです :memo:
